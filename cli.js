@@ -11,7 +11,6 @@ module.exports = function(api) {
     link: 'https://github.com/hqx1223614734/test-ve', // “更多信息 (More info)”链接
     config: [] // 配置项规则参考inquirer
   });
-
   /**
    * @object projectInfo
    *  @field name 项目名称
